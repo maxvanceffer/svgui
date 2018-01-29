@@ -1,3 +1,5 @@
+# https://tympanus.net/codrops/2015/11/12/animating-svg-menu-icon-segment/
+
 # vue-stars
 
 > Flexible VueJS input control for ratings (stars, etc.)
