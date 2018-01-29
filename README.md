@@ -1,5 +1,3 @@
-# https://tympanus.net/codrops/2015/11/12/animating-svg-menu-icon-segment/
-
 # vue-stars
 
 > Flexible VueJS input control for ratings (stars, etc.)
@@ -151,3 +149,7 @@ npm run build
 | 2017.10.28 | 0.1.0   | First published version                                                                    |
 | 2017.10.30 | 0.2.0   | Fixes mostly for iOS Safari                                                                |
 | 2017.12.16 | 0.3.0   | Rebuild configs from scratch, remove sample app, hopefully building a proper component now |
+
+
+
+# https://tympanus.net/codrops/2015/11/12/animating-svg-menu-icon-segment/
